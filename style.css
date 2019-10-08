@@ -1,0 +1,24 @@
+
+h1 {
+    color: black;
+}
+p {
+	color: blue;
+}
+li{
+	font-size: 1.2em;
+}
+body {
+	
+	background-color: grey; 
+	}
+
+image {
+
+ width: 150px;
+}
+
+
+input {
+	border-radius: 10px 5% / 20px 30px;
+}
